@@ -1,0 +1,1 @@
+export const bigNumberToString = (n: number) => n.toLocaleString()
